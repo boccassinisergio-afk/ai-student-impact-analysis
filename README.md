@@ -1,4 +1,4 @@
-# AI Impact on Students — Exploratory Data Analysis
+# AI Impact on Students - Exploratory Data Analysis
 
 **🇮🇹 Italiano | [🇬🇧 English](#english)**
 
@@ -37,7 +37,7 @@ Sergio Boccassini - [LinkedIn](https://linkedin.com/in/sergio-boccassini) -
 
 <a name="english"></a>
 
-# AI Impact on Students — Exploratory Data Analysis
+# AI Impact on Students - Exploratory Data Analysis
 
 **[🇮🇹 Italiano](#ai-impact-on-students--exploratory-data-analysis) | 🇬🇧 English**
 
